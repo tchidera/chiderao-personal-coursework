@@ -1,0 +1,67 @@
+
+3 elem test
+./tideman Alice Bob Charlie
+3
+Bob Charlie Alice
+
+pairs[pair_count].winner = i;
+pairs[pair_count].loser = j;
+pair_count++;
+
+./tideman Alice Bob Charlie Chip Dale
+
+
+1
+1	Dale
+2	Chip
+3	Charlie
+4	Bob
+5	Alice
+2
+1	Chip
+2	Dale
+3	Alice
+4	Bob
+5	Charlie
+3
+1	Dale
+2	Alice
+3	Charlie
+4	Bob
+5	Chip
+4
+1	Alice
+2	Charlie
+3	Dale
+4	Bob
+5	Chip
+5
+1	Bob
+2	Chip
+3	Dale
+4	Alice
+5	Charlie
+6
+1	Charlie
+2	Bob
+3	Alice
+4	Dale
+5	Chip
+7
+1	Dale
+2	Chip
+3	Bob
+4	Charlie
+5	Alice
+8
+1	Bob
+2	Chip
+3	Dale
+4	Alice
+5	Charlie
+9
+1	Chip
+2	Charlie
+3	Bob
+4	Alice
+5	Dale
